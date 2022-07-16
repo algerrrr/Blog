@@ -1,3 +1,5 @@
 body {
-    background: blue;
+    background: rgb(214, 214, 240);
+    width: 960px;
+    margin: 0 auto;
 }
